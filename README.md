@@ -7,7 +7,7 @@ Git is a popular version control system for software development. It is open sou
 ## Repository
 Repository is a path/folder that saves your project in remote/cloud so that you can access it from anywhere. You can easily create a repo from github then clone it to work on it.
 
-### Working on existing repo
+### Working on Previous Repository
 - Visit your existing repo, or create a new one.
 - Copy the repo path.
 - `git clone https://github.com/shm223/new-repo` 
